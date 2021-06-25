@@ -13,6 +13,6 @@
   "ad_show_sequance": "1",
   "is_add_show": "true",
   "is_livemode": "true",
-  "splash_ad_type": "AppOpen",
+  "splash_ad_type": "Interstitial",
   "spellings": "AppOpen,Interstitial,Native"
 }
