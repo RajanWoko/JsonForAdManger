@@ -14,6 +14,6 @@
   "is_add_show": "true",
   "is_livemode": "true",
   "splash_ad_type": "Native",
-  "ad_interval_second": "30",
+  "ad_interval_second": 30,
   "spellings": "AppOpen,Interstitial,Native"
 }
