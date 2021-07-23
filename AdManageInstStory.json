@@ -13,7 +13,7 @@
   "ad_show_sequance": "3",
   "is_add_show": "true",
   "is_livemode": "true",
-  "splash_ad_type": "Native",
+  "splash_ad_type": "AppOpen",
   "ad_interval_second": 12,
   "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
   "mopub_inter": "24534e1901884e398f1253216226017e",
