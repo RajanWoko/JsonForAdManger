@@ -11,7 +11,7 @@
   "facebook_inter": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID,VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID,VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID,VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID,VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
   "ad_show_sequance": "5",
-  "is_add_show": "true",
+  "is_add_show": "false",
   "is_livemode": "true",
   "splash_ad_type": "Native",
   "ad_interval_second": 2,
@@ -19,7 +19,7 @@
   "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
   "mopub_inter": "24534e1901884e398f1253216226017e",
   "mopub_native": "11a17b188668469fb0412708c3d16813",
-  "agora_id": "05b94beb1d914ff59721a16bb1430f93",
+  "agora_id": "ddbcf4aee9684e399e2f316534ecc1e3",
   "interstitial_condition": "1",
   "spellings": "AppOpen,Interstitial,Native"  
 }
