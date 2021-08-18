@@ -1,6 +1,6 @@
 {
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner": "ca-app-pub-3940256099942544/63009,ca-app-pub-3940256099942544/630097,ca-app-pub-3940256099942544/630097,ca-app-pub-3940256099942544/6300978111",
+  "admob_banner": "ca-app-pub-3940256099/63009,ca-app-pub-394025609/630097,ca-app-pub-39402560/630097,ca-app-pub-3940256099942544/6300978111",
   "admob_inter": "ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712",
   "admob_reward": "ca-app-pub-3940256099942544/5224354917",
   "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
@@ -14,7 +14,7 @@
   "is_add_show": "true",
   "is_livemode": "true",
   "splash_ad_type": "Native",
-  "ad_interval_second": 12,
+  "ad_interval_second": 2,
   "mopub_ad_id": "AD_UNIT_ID",
   "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
   "mopub_inter": "24534e1901884e398f1253216226017e",
