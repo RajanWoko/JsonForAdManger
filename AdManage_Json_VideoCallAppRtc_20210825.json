@@ -14,7 +14,8 @@
   "is_add_show": "true",
   "is_livemode": "true",
   "splash_ad_type": "AppOpen",
-  "interstitial_condition": "10",
+  "ad_interval_second":"5",
+  "interstitial_condition": "1",
   "used_app_version": "3.4",
   "used_app_id": "com.apptrend.randomvideo.livevideochat",
    "spellings": "AppOpen,Interstitial,Native"
