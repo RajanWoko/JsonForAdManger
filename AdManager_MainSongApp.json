@@ -15,6 +15,6 @@
   "is_livemode": "true",
   "splash_ad_type": "AppOpen",
   "ad_interval_second":"5",
-  "interstitial_condition": "0",
+  "interstitial_condition": "2",
   "spellings": "AppOpen,Interstitial,Native"
 }
