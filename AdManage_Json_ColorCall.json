@@ -13,7 +13,7 @@
   "ad_show_sequance": "5",
   "is_add_show": "true",
   "is_livemode": "true",
-  "splash_ad_type": "Native",
+  "splash_ad_type": "noad",
   "ad_interval_second":"30",
   "interstitial_condition": "1",
   "spellings": "AppOpen,Interstitial,Native"
