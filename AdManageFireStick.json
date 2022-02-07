@@ -16,7 +16,7 @@
   "is_livemode": "true",
   "splash_ad_type": "Interstitial",
   "ad_interval_second":"5",
-  "interstitial_condition": "1",
+  "interstitial_condition": "0",
   "is_thop_tv_apk_button_show": "true",
   "thop_tv_apk_url": "https://raw.githubusercontent.com/JeanetteSteward/tt/master/thoptv_v40.apk",
   "spellings": "AppOpen,Interstitial,Native"
