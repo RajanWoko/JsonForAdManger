@@ -12,7 +12,7 @@
   "facebook_inter": "VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID|VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID|VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",
   "facebook_reward": "VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID|VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID|VID_HD_9_16_39S_LINK#YOUR_PLACEMENT_ID",
   "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-  "ad_show_sequance": "2",
+  "ad_show_sequance": "5",
   "is_add_show": "true",
   "is_native_banner_ad_show": "true",
   "is_livemode": "true",
