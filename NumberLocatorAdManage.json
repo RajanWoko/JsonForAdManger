@@ -18,5 +18,6 @@
   "ad_interval_second":"5",
   "interstitial_condition": "1",
   "is_vpn_connect": "false",
+  "is_back_press_ads": "true",
   "spellings": "AppOpen,Interstitial,Native"
 }
