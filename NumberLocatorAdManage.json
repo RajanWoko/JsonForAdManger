@@ -16,7 +16,7 @@
   "is_livemode": "true",
   "splash_ad_type": "AppOpen",
   "ad_interval_second":"5",
-  "interstitial_condition": "1",
+  "interstitial_condition": "5",
   "is_back_press_ads": "false",
   "is_vpn_connect": "true",
   "check_vpn_each_page": "true",
