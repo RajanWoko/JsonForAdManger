@@ -21,6 +21,7 @@
   "interstitial_condition": "1",
   "is_vpn_connect": "true",
   "vpn_country_name": "dk,ca,us,no",
+  "is_error_show": "true",
   "spellings": "AppOpen,Interstitial,Native",
   "vpn_name":"ar,au,br,ca,ch,de,dk,es,fr,gb,hk,nl,no,ro,ru,se,sg,sz,tr,ua,uk,us"
 }
