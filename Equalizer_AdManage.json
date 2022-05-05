@@ -17,6 +17,6 @@
   "splash_ad_type": "Native",
   "ad_interval_second":"5",
   "interstitial_condition": "1",
-  "is_back_press_ads": "false",
+  "is_back_press_ads": "true",
   "spellings": "AppOpen,Interstitial,Native"  
 }
