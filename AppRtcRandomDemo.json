@@ -18,6 +18,6 @@
   "ad_interval_second":"5",
   "interstitial_condition": "1",
   "is_back_press_ads": "true",
-  "is_fake_video_show": "true",
+  "is_fake_video_show": "false",
   "spellings": "AppOpen,Interstitial,Native"  
 }
