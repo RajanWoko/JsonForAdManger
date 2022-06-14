@@ -19,7 +19,7 @@
   "splash_ad_type": "AppOpen",
   "ad_interval_second":"5",
   "interstitial_condition": "1",
-  "is_vpn_connect": "true",
+  "is_vpn_connect": "false",
   "vpn_country_name": "dk,ca,us,no",
   "is_error_show": "true",
   "spellings": "AppOpen,Interstitial,Native",
