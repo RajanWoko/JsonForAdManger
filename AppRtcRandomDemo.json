@@ -15,7 +15,7 @@
   "is_native_banner_ad_show": "true",
   "is_livemode": "true",
   "splash_ad_type": "AppOpen",
-  "ad_interval_second":"5",
+  "ad_interval_second":"500",
   "interstitial_condition": "1",
   "is_back_press_ads": "false",
   "is_fake_video_show": "true",
